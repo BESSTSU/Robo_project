@@ -12,4 +12,7 @@
 
 รัน laptop_client.py บน laptop (ปรับ IP ของ Pi)
 
+        python3 laptop_client.py
+
+
 กด w/s/a/d บน laptop เพื่อส่งคำสั่ง — โค้ดบน Pi จะส่งต่อให้ ESP32 ขับมอเตอร์
